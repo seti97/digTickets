@@ -12,5 +12,5 @@
     
     <plugin name="cordova-plugin-inappbrowser" spec="~3.0.0" />
     <plugin name="cordova-plugin-network-information" spec="~2.0.1" />
-    <plugin spec="https://github.com/jquery/jquery" />
+    <plugin spec="http://github.com/Open-I-Beam/cordova-jquery-npm" />
 </widget>
